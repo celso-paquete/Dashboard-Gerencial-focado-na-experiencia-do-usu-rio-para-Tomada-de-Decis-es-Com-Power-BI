@@ -35,3 +35,6 @@ Objectivos da visualização
            ) )
 
  Em anexo o link do Dashboard:  https://app.powerbi.com/groups/me/reports/aaf287b9-8378-42bd-b9d5-9091b89bdda6/0127a8cd6251c6f347ba?experience=power-bi
+
+ <img width="1202" height="662" alt="image" src="https://github.com/user-attachments/assets/6e43eb0b-a04c-441d-9e1d-1140995772d3" />
+
